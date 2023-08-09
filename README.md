@@ -17,7 +17,13 @@ Some will say most of this is not an act of creation, but mimicry. I'm ok with t
 
 ## Journal
 
-### 2023-08-08 - On real isolation and what it entails
+
+
+### 2023-08-12 - Resources, growth, commerce and staying neutral
+
+Soon.
+
+### 2023-08-06 - On real isolation and what it entails
 
 I've been thinking about the ethics and morals of City Game's island.
 For this mental exercise, let's asume there is some guiding intelligence on the history of the island. Given its utopian qualities, it would be easier to asume the existence of an age-old well-meaning and highly educated being focused on the welfare of the island than believing on the long-term planning and true kindness capacities of a handful of secluded humans, or chance.
@@ -37,7 +43,7 @@ Unethical consumerism is always unethical. No price tag will change that.
 
 The dilemma here is, you need the mundane. A small island like yours won't stand eternal by itself.
 
-Let's think about the third option: You reject goods and services from the continent. It's easy at the beginning, just set aside some land for farming and crops. Life is easy. Your population
+Let's think about the third option: You reject goods and services from the continent. It's easy at the beginning, just set aside some land for farming and crops. Life is easy. Your population grows steadily until foreign countries see what you have and want it for them, or until every resource is consumed and commerce is a necessity just to survive. This will happen. Your population will grow above the point of equilibrium. The environment won't be able to support that growth and will eventually collapse. We'll have to take some actions to avoid that. But that will be on another day.
 
 
 ### 2023-06-26 - About conflict in storytelling
@@ -47,14 +53,12 @@ Yet, cinema has shown us quite notable movies where conflict is almost non exist
 Games, specially indie games in nature, have tiptoed into this style with "walking simulators" and "cozy games", where the pacing is more relaxed and the treated themes are either shallow, or deep but laser-focused.
 I love moving through the cities in GTA series. I hate the story, though. Conflict follows the player everywhere, and it's the only language a player can speak on them. Let's talk about games' verbs. Before point and click adventures had its peak, there was usual for games to have a text input. The variety and complexity of such games depended on how many verbs there were. You could take, see, read, pinch, open, throw, eat... an object. FPS games have lots of locomotion verbs, but only one or two interaction verbs: Use/activate and shoot. GTA games have lots of locomotion verbs, but lack in interactions. It's not as barebones as with pure FPS games, but if you only can *run over*, *punch* or *shoot* someone, no interactions of value will be achieved. NPCs become just moving targets to avoid or confront. RDR and RDR2 offer a much richer experience, but violence is ingrained in the genre and often becomes a necessity.
 
-My take: Let's forget about conflict. It's barely there on our day to day. We should enlarge the list of verbs instead. I want a game where characters and NPCs alike can sit on a bench, talk with each other, plug a cable, read a poem, pet animals, play an instrument, open the mailbox, wash the dishes, climb a wall, jump over a puddle, carry a box, make an omelette, watch some birds, pull a cord, switch on a light, stamp a stamp, eat a sandwich.
+My take: Let's forget about conflict. It's barely there on our day to day. We should enlarge the list of verbs instead. I want a game where characters and NPCs alike can sit on a bench, talk with each other, plug a cable, read a poem, pet animals, play an instrument, open the mailbox, wash the dishes, climb a wall, jump over a puddle, carry a box, make an omelette, watch some birds, pull a cord, switch on a light, stamp a stamp, eat a sandwich, take a photo, hold a lamp. Life has its difficulties without foes and open conflict.
 
 
 ### 2023-01-14 - Workflowy
 
 All game design ideas will be added on this Workflowy document: https://workflowy.com/s/citygame/aA0jhxBa4BncYTPX
-
-
 
 
 ### 2022-10-23
