@@ -27,7 +27,7 @@ If you import goods or services from afar, knowing no other country holds itself
 Almost nothing passes such filters.
 
 You could try to undo the harm done to the world and its inhabitants. Estimate the lost value, then make some reparations. Plant some trees, capture CO2, clean the oceans... you could charge extra in customs, then employ it on all those aura-cleaning rituals. Did it work? I thought so.
-Putting a price to bad behaviour does not avoid it, just restrict it to the people that can afford it. Your island won't be sacred anymore if its rooted on the mud of the mundane.
+Putting a price to bad behaviour does not avoid it, just restricts it to the people that can afford it. Your island won't be sacred anymore if its rooted on the mud of the mundane.
 Unethical consumerism is always unethical. No price tag will change that.
 
 The dilemma here is, you need the mundane. A small island like yours won't stand eternal by itself.
