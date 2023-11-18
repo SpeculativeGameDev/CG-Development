@@ -10,7 +10,7 @@ This project has been on pre-production since 2018. There is no release date in 
 
 ### 2023-08-12 - Resources, growth, commerce and staying neutral
 
-Soon.
+Resources are finite. We humans valued them for their scarcity and their usefulness. That's why, for most of human history, Helium had a value of zero. Even such a scarce gas had no value to us until we found uses for it. Now it's expensive, protected and its commerce is artificially limited. 
 
 ### 2023-08-06 - On real isolation and what it entails
 
