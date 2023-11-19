@@ -8,7 +8,7 @@ This project has been on pre-production since 2018. There is no release date in 
 
 
 
-### 2023-08-12 - Resources, growth, commerce and staying neutral
+### 2023-11-19 - Resources, growth, commerce and staying neutral
 
 #### Resources ####
 
@@ -29,10 +29,13 @@ We embrace growth, then slow our pace to avoid exhausting the value of the land,
 
 #### Commerce ####
 
-As an age-old well-meaning and highly educated being focused on the welfare of the island, you are doing pretty badly. Don't beat yourself up just yet. This is unavoidable. This is not because of human nature, as much as is because of being living beings. Given enough nutrients, algae will grow to fully cover a pond, asphyxiating all underwater animals, depriving plants of sunlight, converting an orchard into a dead quagmire. Even the algae will eventually die, when the original nutrient source disappears. This is the order of life: to thrive until every resource is used up. What maintains life in equilibrium is a constant bid of strenghts between multiple forms of life that consume the same resource. Thinking in eons, being suboptimal is a blessing. Humans are like those algae: They found a way to use all the resources at their disposal, and will do so until nothing remains, even if that means their own extinction.
+As an age-old well-meaning and highly educated being focused on the welfare of the island, you are doing pretty badly. Don't beat yourself up just yet. This is unavoidable. This is not because of human nature, as much as is because of being living beings. Given enough nutrients, algae will grow to fully cover a pond, asphyxiating all underwater animals, depriving plants of sunlight, converting an orchard into a dead quagmire. Even the algae will eventually die, when the original nutrient source disappears. This is the order of life: to thrive until every resource is used up. What maintains life in equilibrium is a constant bid of strenghts between multiple forms of life that consume the same resource. Thinking in eons, being suboptimal is a blessing. Humans fell through a loophole and no longer play by the rules. We are like those algae: We found a way to use all the resources at our disposal, and will do so until nothing remains, even if that means our own extinction.
 
-With that introduction fresh in our heads, let's think about inevitable commerce. And, to broad the term a bit, let's think on commerce as a transfer of goods. Not all transfers of goods require collaboration or willingness of both parties: Sometimes we get robbed, sometimes we give presents, sometimes we buy something we don't want because we have to.
+With that introduction fresh in our heads, let's think about the unavoidability of commerce. And, to broad the term a bit, let's think on commerce as a transfer of goods. Not all transfers of goods require collaboration or willingness of both parties: Sometimes we get robbed, sometimes we give presents, sometimes we buy something we don't want because we have to, sometimes we find a bill on the street and make it ours, unwilling to find its previous owner.
 
+So, our society will use all resources at their disposal, until some get harder to obtain that just getting them from outside, by commerce or by force. Our directive is to avoid transfers of goods with the continent, as their ways are not as thoughtful as ours. Yet, we need their goods to avoid falling behind an accelerating globe. It will be easy at first, but even if we stay impassive, nations will eventually initiate commercial relations with us for the same reasons we could try to: They might want something that nature left on our backyard.
+
+We are in a difficult situation: Avoiding commerce will weaken us with every passing year, yet entering the world economy will shatter any remaining fantasy of ethics. We'll be buying child labour, slave labour, global warming in form of nice goods. Is there any answer that maintains our goals and does end with our deaths?
 
 #### Staying neutral ####
 
