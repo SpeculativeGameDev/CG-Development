@@ -39,6 +39,12 @@ We are in a difficult situation: Avoiding commerce will weaken us with every pas
 
 #### Staying neutral ####
 
+There are some nations known to be neutral. What we really mean with neutral is, those nations won't go to war. Those nations won't be involved in war affairs by third parties. Those nations are mere geographical buffers, no man's land with owners, political dead ends. Those nations are treated like that because of a whim of our planet: They are either uninteresting, remote pieces of land with almost no resources, or heavily coveted places, being it by their geographical situation along commercial routes, their tactical advantage, or abundance of some valious resource that no country desires to be lost to a single force. Nations like these are protected by treaties, guarded by multi-nation armies, or left to their own devices by disinterest and oblivion.
+
+Our island, being in the Mediterranean, can not play the oblivion card. As other mediterranean islands (Santorini, Lipari, Pantelleria, Ischia, Sardinia...), yours is full of guano, high quality clay, iron and marble.
+You take control of the island leaders through history and guide them to political autonomy. Your leaders find soon there's no such thing as a free lunch.
+
+
 
 
 ### 2023-08-06 - On real isolation and what it entails
