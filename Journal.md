@@ -10,7 +10,33 @@ This project has been on pre-production since 2018. There is no release date in 
 
 ### 2023-08-12 - Resources, growth, commerce and staying neutral
 
-Resources are finite. We humans valued them for their scarcity and their usefulness. That's why, for most of human history, Helium had a value of zero. Even such a scarce gas had no value to us until we found uses for it. Now it's expensive, protected and its commerce is artificially limited. 
+#### Resources ####
+
+Resources are finite. We humans valued them for their scarcity and their usefulness. That's why, for most of human history, Helium had a value of zero. Even such a scarce gas had no value to us until we found uses for it. Now it's expensive, protected and its commerce is artificially limited.
+Demand also plays a big role in the value we give to something. On an island, humans will experience sooner how limited their resources are. Growth is a chimera: Nature has been hoarding its resources for hundreds of millennia, yet we are able to consume and transform them on centuries or even decades. Some resources will be in high demand, and if we don't restrict their exploitation, their value will increase until they are really expensive to buy, and their quantity will drop until they are impossible to obtain.
+
+We are on an island. We should try really hard to avoid depending on lots of resources, as they will inevitably exhaust.
+
+#### Growth ####
+
+As we previously thought about in [Real Isolation](#2023-08-06---on-real-isolation-and-what-it-entails):
+You reject goods and services from the continent. You set aside some land for farming and crops. Then your population grows steadily until some resource is consumed, or demand exceeds production.
+We don't want that. How can we avoid this outcome? Let's explore some answers to the problem at hand:
+
+We avoid growth. Our population maintains a set size that ensures survival even with fluctuations. Progress is still possible, but at a slow pace, as constant or diminishing consumption of resources is a requirement. Congratulations, you have just created an amazonian hunter-gatherer tribe. Eventually our society becomes stale, gets conquered by some other country with fewer considerations to the environment, or dies of unexpected changes in their surroundings (volcano, global warming, local extinctions, a virulent flu). You are an ethical Dodo.
+
+We embrace growth, then slow our pace to avoid exhausting the value of the land, until some resources are no longer needed or our technology lets us use them more efficiently. Our current society thinks we are here, yet the reality is more grim: Humans are very bad at letting go of the comforts of modern life. What if those optimizations don't arrive on time? What if they are pricier than just doing nothing? If our land can't meet demand, our citizens will trade for those resources with external parties.
+
+#### Commerce ####
+
+As an age-old well-meaning and highly educated being focused on the welfare of the island, you are doing pretty badly. Don't beat yourself up just yet. This is unavoidable. This is not because of human nature, as much as is because of being living beings. Given enough nutrients, algae will grow to fully cover a pond, asphyxiating all underwater animals, depriving plants of sunlight, converting an orchard into a dead quagmire. Even the algae will eventually die, when the original nutrient source disappears. This is the order of life: to thrive until every resource is used up. What maintains life in equilibrium is a constant bid of strenghts between multiple forms of life that consume the same resource. Thinking in eons, being suboptimal is a blessing. Humans are like those algae: They found a way to use all the resources at their disposal, and will do so until nothing remains, even if that means their own extinction.
+
+With that introduction fresh in our heads, let's think about inevitable commerce. And, to broad the term a bit, let's think on commerce as a transfer of goods. Not all transfers of goods require collaboration or willingness of both parties: Sometimes we get robbed, sometimes we give presents, sometimes we buy something we don't want because we have to.
+
+
+#### Staying neutral ####
+
+
 
 ### 2023-08-06 - On real isolation and what it entails
 
