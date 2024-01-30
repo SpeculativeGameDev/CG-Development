@@ -35,7 +35,7 @@ With that introduction fresh in our heads, let's think about the unavoidability 
 
 So, our society will use all resources at their disposal, until some get harder to obtain that just getting them from outside, by commerce or by force. Our directive is to avoid transfers of goods with the continent, as their ways are not as thoughtful as ours. Yet, we need their goods to avoid falling behind an accelerating globe. It will be easy at first, but even if we stay impassive, nations will eventually initiate commercial relations with us for the same reasons we could try to: They might want something that nature left on our backyard.
 
-We are in a difficult situation: Avoiding commerce will weaken us with every passing year, yet entering the world economy will shatter any remaining fantasy of ethics. We'll be buying child labour, slave labour, global warming in form of nice goods. Is there any answer that maintains our goals and does end with our deaths?
+We are in a difficult situation: Avoiding commerce will weaken us with every passing year, yet entering the world economy will shatter any remaining fantasy of ethics. We'll be financing extremist contries, buying child labour, slave labour, global warming in form of fancy goods. Is there any answer that maintains our goals and does end with our deaths?
 
 #### Staying neutral ####
 
