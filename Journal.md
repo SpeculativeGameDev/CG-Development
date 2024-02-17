@@ -8,6 +8,9 @@ This project has been on pre-production since 2018. There is no release date in 
 
 
 
+### 2024-02-17 - 
+
+
 ### 2023-11-19 - Resources, growth, commerce and staying neutral
 
 #### Resources ####
@@ -43,8 +46,6 @@ There are some nations known to be neutral. What we really mean with neutral is,
 
 Our island, being in the Mediterranean, can not play the oblivion card. As other mediterranean islands (Santorini, Lipari, Pantelleria, Ischia, Sardinia...), yours is full of guano, high quality clay, iron, copper and marble.
 You take control of the island leaders through history and guide them to political autonomy. Your leaders find soon there's no such thing as a free lunch.
-
-
 
 
 ### 2023-08-06 - On real isolation and what it entails
