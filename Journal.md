@@ -33,7 +33,7 @@ As an age-old well-meaning and highly educated being focused on the welfare of t
 
 With that introduction fresh in our heads, let's think about the unavoidability of commerce. And, to broad the term a bit, let's think on commerce as a transfer of goods. Not all transfers of goods require collaboration or willingness of both parties: Sometimes we get robbed, sometimes we give presents, sometimes we buy something we don't want because we have to, sometimes we find a bill on the street and make it ours, unwilling to find its previous owner.
 
-So, our society will use all resources at their disposal, until some get harder to obtain that just getting them from outside, by commerce or by force. Our directive is to avoid transfers of goods with the continent, as their ways are not as thoughtful as ours. Yet, we need their goods to avoid falling behind an accelerating globe. It will be easy at first, but even if we stay impassive, nations will eventually initiate commercial relations with us for the same reasons we could try to: They might want something that nature left on our backyard.
+So, our society will use all resources at their disposal, until some get harder to obtain than just getting them from outside, by commerce or by force. Our directive is to avoid transfers of goods with the continent, as their ways are not as thoughtful as ours. Yet, we need their goods to avoid falling behind against an accelerating globe. It will be easy at first, but even if we stay impassive, nations will eventually initiate commercial relations with us for the same reasons we could try to: They might want something that nature left on our backyard.
 
 We are in a difficult situation: Avoiding commerce will weaken us with every passing year, yet entering the world economy will shatter any remaining fantasy of ethics. We'll be financing extremist contries, buying child labour, slave labour, global warming in form of fancy goods. Is there any answer that maintains our goals and does end with our deaths?
 
@@ -41,7 +41,7 @@ We are in a difficult situation: Avoiding commerce will weaken us with every pas
 
 There are some nations known to be neutral. What we really mean with neutral is, those nations won't go to war. Those nations won't be involved in war affairs by third parties. Those nations are mere geographical buffers, no man's land with owners, political dead ends. Those nations are treated like that because of a whim of our planet: They are either uninteresting, remote pieces of land with almost no resources, or heavily coveted places, being it by their geographical situation along commercial routes, their tactical advantage, or abundance of some valious resource that no country desires to be lost to a single force. Nations like these are protected by treaties, guarded by multi-nation armies, or left to their own devices by disinterest and oblivion.
 
-Our island, being in the Mediterranean, can not play the oblivion card. As other mediterranean islands (Santorini, Lipari, Pantelleria, Ischia, Sardinia...), yours is full of guano, high quality clay, iron and marble.
+Our island, being in the Mediterranean, can not play the oblivion card. As other mediterranean islands (Santorini, Lipari, Pantelleria, Ischia, Sardinia...), yours is full of guano, high quality clay, iron, copper and marble.
 You take control of the island leaders through history and guide them to political autonomy. Your leaders find soon there's no such thing as a free lunch.
 
 
